@@ -2,7 +2,7 @@
 
 This is a simple weather app test project that allows users to search for the current weather in a city. It uses the OpenWeatherMap API to fetch weather data based on the city entered by the user.
 
-# Make sure to replace `"YOUR_API_KEY_HERE"` in the README file with your actual OpenWeatherMap API key, and save it as `README.md` in the root directory of your project. This README file will provide basic instructions and information about your weather app test project.
+## Make sure to replace `"YOUR_API_KEY_HERE"` in the README file with your actual OpenWeatherMap API key, and save it as `README.md` in the root directory of your project. This README file will provide basic instructions and information about your weather app test project.
 
 ## How to Use
 
