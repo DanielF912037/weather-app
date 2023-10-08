@@ -33,3 +33,6 @@ To use this application, you need to obtain an API key from [OpenWeatherMap](htt
 This project was created as a simple demonstration of fetching and displaying weather data using HTML, CSS, and JavaScript. It is not intended for production use and serves as a starting point for learning and experimentation.
 
 Feel free to modify and enhance the project as needed for your purposes!
+
+credit to GreatStackDev 
+https://youtube.com/@GreatStackDev?si=bE6d8gV7muVIX5p-
