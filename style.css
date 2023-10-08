@@ -1,14 +1,17 @@
+/* Reset default margin, padding, and font-family for all elements */
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Arial, Helvetica' , sans-serif;
+    font-family: 'Arial, Helvetica', sans-serif;
     box-sizing: border-box;
 }
 
+/* Set the background color of the body */
 body {
     background: #222;
 }
 
+/* Styling for the weather card container */
 .card {
     width: 90%;
     max-width: 470px;
@@ -20,6 +23,7 @@ body {
     text-align: center;
 }
 
+/* Styling for the search bar section */
 .search {
     width: 100%;
     display: flex;
@@ -27,6 +31,7 @@ body {
     justify-content: space-between;
 }
 
+/* Styling for the input field in the search bar */
 .search input {
     border: 0;
     outline: 0;
@@ -40,6 +45,7 @@ body {
     font-size: 18px;
 }
 
+/* Styling for the search button in the search bar */
 .search button {
     border: 0;
     outline: 0;
@@ -50,25 +56,30 @@ body {
     cursor: pointer;
 }
 
+/* Styling for the search button's image */
 .search button img{
     width:  16px;
 }
 
+/* Styling for the weather icon */
 .weather-icon{
     width: 170px;
     margin-top: 30px;
 }
 
+/* Styling for the temperature display */
 .weather h1{
     font-size: 80px;
     font-weight: 500;
 }
 
+/* Styling for the city name display */
 .weather h2{
     font-size: 45px;
     font-weight: 500;
 }
 
+/* Styling for the weather details section */
 .details{
     display: flex;
     align-items: center;
