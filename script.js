@@ -1,5 +1,5 @@
 // Define the API key and the base URL for the OpenWeatherMap API
-const apiKey = "ccbb7716278198ff4e07bd639211f1f3";
+const apiKey = "YOUR_API_KEY_HERE";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 // Get references to HTML elements using their CSS classes
